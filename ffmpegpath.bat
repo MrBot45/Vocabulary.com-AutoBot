@@ -1,0 +1,1 @@
+setx path "%PATH%;C:\ffmpeg\ffmpeg-4.0-win32-static\bin"
