@@ -22,10 +22,10 @@ Are supported.
 
 # Installation
 **Install python 2.7.14 here: https://www.python.org/downloads/release/python-2714/**
-**Install to install pip, run installPip.bat**
-**To install all dependency, run installDeps.bat**
-**Or do it manualy:**
-**DO pip install -r requirements.txt FOR INSTALL ALL DEPENDENCY.**
+<br>**Install to install pip, run installPip.bat**
+<br>**To install all dependency, run installDeps.bat**
+<br>**Or do it manualy:**
+<br>**DO pip install -r requirements.txt FOR INSTALL ALL DEPENDENCY.**
 
 # How to use
 **Tutorial comming soon!**
