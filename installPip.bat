@@ -1,6 +1,4 @@
 echo Adding python to path!
-setx -m PATH "%PATH%;C:\Python27\";
-setx -m PATH "%PATH%;C:\Python27\Lib";
-setx -m PATH "%PATH%;C:\Python27\Scripts";
+powershell -command "Start-Process path.bat -Verb runas"
 
 cscript.exe install.vbs

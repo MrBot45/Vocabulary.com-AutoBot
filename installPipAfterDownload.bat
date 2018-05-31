@@ -1,3 +1,3 @@
 python get-pip.py
 
-pause
+start install.bat
