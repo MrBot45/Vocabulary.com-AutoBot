@@ -12,10 +12,6 @@ Automatically solves "Vocabulary.com" Assignments.
 * Text
 Are supported.
 
-# Todo
-* Images
-* Fill and drag
-
 # Contributor
 * Snbk97 for the fist commit
 * lefela4 for the update
@@ -50,3 +46,7 @@ Let the magic happen!
 * Audioop
 * Pydub
 </pre>
+
+# Todo
+* Images
+* Fill and drag
