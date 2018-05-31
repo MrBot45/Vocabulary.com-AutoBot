@@ -16,14 +16,29 @@ Are supported.
 * Images
 * Fill and drag
 
-# The bot skips...
-<pre>
-	Skips question with photo
-	Skips question with fill_ins
-</pre>
+# Contributor
+* Snbk97 for the fist commit
+* lefela4 for the update
 
 # Installation
+**Install python 2.7.14 here: https://www.python.org/downloads/release/python-2714/**
+**Install to install pip, run installPip.bat**
+**To install all dependency, run installDeps.bat**
+**Or do it manualy:**
+**DO pip install -r requirements.txt FOR INSTALL ALL DEPENDENCY.**
+
+# How to use
+**Tutorial comming soon!**
+
+## Windows
+Currenly, the bot is only for windows user!
+To run it, run start.bat. It should open a web page.
+Let the magic happen!
+
+# Prerequisites
+
 <b>Prerequisites:</b>
+* Python 2.7.14
 <pre>
 * Chrome Driver [<a href="https://sites.google.com/a/chromium.org/chromedriver/">Link</a>] placed in the correct folder
 * Selenium python module
@@ -35,16 +50,3 @@ Are supported.
 * Audioop
 * Pydub
 </pre>
-
-**DO pip install -r requirements.txt FOR INSTALL ALL DEPENDENCY.**
-
-# How to use
-**Tutorial comming soon!**
-## Windows
-Currenly, the bot is only for windows user!
-To run it, run start.bat. It should open a web page.
-Let the magic happen!
-
-# Contributor
-* Snbk97 for the fist commit
-* lefela4 for the update!
