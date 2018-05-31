@@ -1,0 +1,1 @@
+cscript.exe install.vbs
