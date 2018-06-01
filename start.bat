@@ -1,5 +1,5 @@
 cd src
 
-python vocab_Demo.py
+python vocab_Demo1.py
 
 pause
