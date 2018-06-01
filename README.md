@@ -22,7 +22,8 @@ Are supported.
 <br>**Click on START.bat to run the program!**
 
 # How to use
-**Tutorial comming soon!**
+**Tutorial**
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/55d9t8HysOU/0.jpg)](https://www.youtube.com/watch?v=55d9t8HysOU&feature=youtu.be)
 
 ## Windows
 Currenly, the bot is only for windows user!
