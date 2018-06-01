@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*- 
-__version__ = "1.1"
 import os
 import platform
 from selenium import webdriver
@@ -25,6 +24,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from os import path
+
+__version__ = "1.1"
 
 _author_ = "Sayan Bhowmik and lefela4(Felix)"
 fo = open('cred')
