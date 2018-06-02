@@ -116,6 +116,7 @@ def login():
     password = driver.find_element_by_name("password")
     username.send_keys(my_username)
     password.send_keys(my_pass)
+    driver.executeScript("scroll(800, 500);");
     driver.find_element_by_class_name("green").click()
 
 
@@ -152,8 +153,6 @@ def speech_to_text(audio):
             text = "mode"
         if(text == "lute"):
             text = "loot"
-        if(text == "whack"):
-            text = "lack"
         return text
     except sr.UnknownValueError:
         print("Could not understand audio")
