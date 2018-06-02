@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*- 
-__version__ = "1.2.3"
+__version__ = "1.2.4"
 import os
 import platform
 from selenium import webdriver
@@ -118,9 +118,23 @@ def login():
     password.send_keys(my_pass)
     driver.find_element_by_class_name("green").click()
     time.sleep(1)
+    try:
+        alertObj = driver.switch_to.alert
+        alertObj.accept()
+        print "Alert detected!"
+        driver.get(url)
+    except Exception as e:
+        print("No alert found!")
 
 #====================================================================================================================================================#
 def assignment():
+    try:
+        alertObj = driver.switch_to.alert
+        alertObj.accept()
+        print "Alert detected!"
+        driver.get(url)
+    except Exception as e:
+        print("No alert found!")
     time.sleep(3)
     driver.get(a_page)
     time.sleep(2)
