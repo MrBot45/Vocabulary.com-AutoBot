@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*- 
-__version__ = "1.2.1"
+__version__ = "1.2.2"
 import os
 import platform
 from selenium import webdriver
@@ -116,7 +116,7 @@ def login():
     password = driver.find_element_by_name("password")
     username.send_keys(my_username)
     password.send_keys(my_pass)
-    driver.execute_script("scroll(800, 500);");
+    driver.execute_script("scroll(400, 100);");
     driver.find_element_by_class_name("green").click()
 
 
@@ -125,7 +125,7 @@ def assignment():
     time.sleep(3)
     driver.get(a_page)
     time.sleep(2)
-    driver.execute_script("window.scrollTo(0, 0);")
+    driver.execute_script("window.scrollTo(100, 100);")
     option_high_score = scrapper()
     click_op(option_high_score)
     print "[+] STARTING VOCABULARY BOT [1]"
@@ -161,6 +161,7 @@ def speech_to_text(audio):
  
 
 def scrapper():
+    driver.execute_script("scroll(400, 100);");
     try:
         alertObj = driver.switch_to.alert
         alertObj.accept()
