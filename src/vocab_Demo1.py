@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*- 
-__version__ = "1.2.3"
+__version__ = "1.1"
 import os
 import platform
 from selenium import webdriver
@@ -117,7 +117,7 @@ def login():
     username.send_keys(my_username)
     password.send_keys(my_pass)
     driver.find_element_by_class_name("green").click()
-
+    time.sleep(1)
 
 #====================================================================================================================================================#
 def assignment():
