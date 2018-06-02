@@ -425,7 +425,7 @@ def click_op(i):
         print "Error quitting... " . a
 #====================================================================================================================================================#
 def autoUpdate(): #main()
-    updated = update("https://raw.githubusercontent.com/lefela4/Vocabulary.com-AutoBot/master/src/vocab_Demo-.py", __version__)
+    updated = update("https://raw.githubusercontent.com/lefela4/Vocabulary.com-AutoBot/master/src/vocab_Demo1.py", __version__)
 
     if(updated == 0):
         # Nothing to update
