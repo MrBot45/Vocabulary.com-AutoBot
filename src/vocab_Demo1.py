@@ -154,7 +154,7 @@ def speech_to_text(audio):
     time.sleep(2)
     with sr.AudioFile("audio.wav") as source:
         audio = r.record(source)
-
+ 
     try:
         text = r.recognize_google(audio)
         print("You said " + text)
@@ -166,6 +166,10 @@ def speech_to_text(audio):
             text = "mode"
         if(text == "lute"):
             text = "loot"
+        if(text == "heroin"):
+            text = "harrowing"
+        if(text == "and you were"):
+            text = "inure"
         return text
     except sr.UnknownValueError:
         print("Could not understand audio")
