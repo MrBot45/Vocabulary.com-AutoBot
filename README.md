@@ -18,7 +18,7 @@ Are supported.
 
 # Installation
 **Install python 2.7.14 here: https://www.python.org/downloads/release/python-2714/**
-<br>**Install to install everything, run installPip.bat**
+<br>**To install everything, run installPip.bat**
 <br>**Click on START.bat to run the program!**
 
 # How to use
