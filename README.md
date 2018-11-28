@@ -3,7 +3,7 @@ You are tired for making vocabulary.com assignments? You want to do something el
 <br>BOTS ARE SOLUTION! With this bot, you can pass: AUDIO and TEXT challenge. **WARINGING:** THE BOT HAVE ONLY 80% OF SUCCESS RATE. IT CAN CRASH AT ANY MOMENT. STILL ON DEVELOPEMENT. WHEN YOU ARE AT ABOUT **80%**. CHECK IF THE BOT CAN STILL SOLVE OR YOU WILL NEED TO DO IT BY YOUR SELF!
 
 # Disclaimer:
-> If you use this bot, YOU actually won't gain any knowledge. It is recommended that you solve your assignments on your own ! THIS BOT IS FOR EDUCATION PURPOSE ONLY. 
+> If you use this bot, YOU actually won't gain any knowledge. It is recommended that you solve your assignments on your own ! THIS BOT IS FOR EDUCATION PURPOSE ONLY. I am not responsable of any kind of thing that can happen to your account.
 
 # [UPDATED] BETA v1.1 [The code will be updated if needed!]
 
