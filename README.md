@@ -1,4 +1,4 @@
-# About Vocabulary.com Bot (Un-updated)
+# About Vocabulary.com Bot (DEPRECATED)
 You are tired for making vocabulary.com assignments? You want to do something else but you can't because you have an homework? 
 <br>BOTS ARE SOLUTION! With this bot, you can pass: AUDIO and TEXT challenge. **WARINGING:** THE BOT HAVE ONLY 80% OF SUCCESS RATE. IT CAN CRASH AT ANY MOMENT. STILL ON DEVELOPEMENT. WHEN YOU ARE AT ABOUT **80%**. CHECK IF THE BOT CAN STILL SOLVE OR YOU WILL NEED TO DO IT BY YOUR SELF!
 
